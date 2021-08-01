@@ -21,4 +21,4 @@ trazer agilidade e segurança nas transações realizadas.
 
 ## Diagrama de Classe:
 
-![Diagrama de Classes](/relative/path/to/DiagramaClasses.png "Diagrama de Classes")
+![Diagrama de Classes](C:\Users\x\Documents\MeusProjetos\CaixaEletronico/DiagramaClasses.png "Diagrama de Classes")
